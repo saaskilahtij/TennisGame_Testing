@@ -1,4 +1,5 @@
 
-public class TennisGameException extends Exception {
 
+public class TennisGameException extends Exception {
+	
 }
